@@ -8,7 +8,7 @@ Snake Console Game (SCG) is a console desktop game like old snake nokia game usi
 - Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas, curses if they are not installed.
 
 ```bash
-pip install pandas curses
+pip install pandas windows-curses
 ```
 #### Application
 - open terminal in ``Snake Console Game (SCG)`` directory (folder) then from terminal run the application
